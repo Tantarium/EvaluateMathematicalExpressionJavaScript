@@ -1,5 +1,5 @@
 
-describe("Comparing two poker hands to determine which one would win.", function() {
+describe("Calculating the numerical result from a mathematical expression.", function() {
 
     it("'1+1' to equal 2.", function() {
         var expression = '1+1';
