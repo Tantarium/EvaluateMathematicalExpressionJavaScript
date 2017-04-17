@@ -1,2 +1,1 @@
-# Pokerhands-JavaScript
 # EvaluateMathematicalExpressionJavaScript
